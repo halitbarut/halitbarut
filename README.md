@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halitbarut
 - 👀 I’m interested in Mobile App/Game Developing
-- 🌱 I’m currently learning Kotlin, Java, C# (Unity)
+- 🌱 I’m currently learning Kotlin, Java, C# (Unity) and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
