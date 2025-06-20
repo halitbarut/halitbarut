@@ -1,8 +1,8 @@
-[![MasterHead](https://preview.redd.it/3840-x-2160-github-link-preview-banner-with-dark-theme-v0-nt29vlmrr3je1.png?auto=webp&s=78e8c8226d49ee07e97cbbe07f6ba79c7fcdb7a7)
+<p align="center">
+  <img src="./github-header-image.png" alt="Header">
+</p>
 <h1 align="center">Hi 👋, I'm Halit</h1>
 <h3 align="center">A passionate Software Engineering Student from Türkiye</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halitbarut" alt="halitbarut" /></a> </p>
 
 - 🔭 I’m currently working on [TicaretApp](https://github.com/halitbarut/TicaretApp)
 
