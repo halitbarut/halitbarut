@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Halit</h1>
 <h3 align="center">A passionate Software Engineering Student from Türkiye</h3>
 
-- 🔭 I’m currently working on [perpetua](https://github.com/halitbarut/personal_site)
+- 🔭 I’m currently working on [Kora]([https://github.com/halitbarut/personal_site](https://github.com/halitbarut/Kora))
 
 - 🌱 I’m currently learning **Fastapi, Jetpack Compose, Machine Learning**
 
