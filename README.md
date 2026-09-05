@@ -33,7 +33,10 @@
 
 <h3 align="center">🛠️ Tech Stack & Capabilities</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,c,cs,dart,docker,dotnet,figma,firebase,flutter,git,java,kotlin,linux,mysql,pandas,ps,postgres,postman,python,pytorch,scikitlearn,spring,sqlite,tensorflow,unity&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cloudflare,cs,dart,docker,dotnet,fastapi" /><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=figma,firebase,flutter,gcp,git,gradle,idea,java" /><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,linux,mysql,nginx,npm,postgres,postman,ps,python" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,raspberrypi,scala,sklearn,spring,sqlite,tensorflow,unity,vue" />
 </p>
 
 <br />
